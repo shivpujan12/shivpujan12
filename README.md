@@ -21,11 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpujan12&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivpujan12/shivpujan12/output/snake.svg" />
-</p>
-
-
 ---
 
 ## 🧠 About Me
